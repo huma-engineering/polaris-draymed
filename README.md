@@ -1,3 +1,6 @@
+# Announcement :loudspeaker: 
+
+This repository is transferred from [gdm-SynseneHealth](https://github.com/sensynehealth/polaris-draymed) to Huma organisation as part of change in asset ownership 
 # draymed
 This repository contains JavaScript and Python libraries for providing providing SNOMED (and custom) codes for Polaris
 applications.
